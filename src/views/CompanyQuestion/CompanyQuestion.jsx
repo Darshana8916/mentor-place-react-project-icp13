@@ -156,7 +156,6 @@ export default function CompanyQuestions({ form, onLogout }) {
       </div>
 
       <div className="cq-body">
-
         {/* Step 1 — Companies */}
         {!selectedCompany && (
           <>
