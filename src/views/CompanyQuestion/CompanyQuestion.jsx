@@ -192,7 +192,7 @@ export default function CompanyQuestions({ form, onLogout }) {
             </div>
           </>
         )}
-        
+
         {/* Step 3 — Questions with Answers */}
         {selectedCompany && selectedSubject && (
           <>
@@ -220,7 +220,6 @@ export default function CompanyQuestions({ form, onLogout }) {
             </div>
           </>
         )}
-
       </div>
       <Footer />
     </div>
