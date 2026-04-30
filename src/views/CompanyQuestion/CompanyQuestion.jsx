@@ -173,7 +173,6 @@ export default function CompanyQuestions({ form, onLogout }) {
             </div>
           </>
         )}
-
         {/* Step 2 — Subjects */}
         {selectedCompany && !selectedSubject && (
           <>
