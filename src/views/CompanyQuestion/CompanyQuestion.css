@@ -88,6 +88,10 @@
 
 
 
+
+
+
+
 @media (max-width: 640px) {
   .cq-company-grid { grid-template-columns: 1fr 1fr; }
   .cq-hero h1 { font-size: 26px; }
