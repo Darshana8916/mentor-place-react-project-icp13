@@ -80,6 +80,10 @@
 .cq-ans-label { font-size: 11px; font-weight: 700; color: var(--accent); text-transform: uppercase; letter-spacing: 0.5px; display: block; margin-bottom: 8px; }
 .cq-q-answer p { font-size: 13.5px; color: var(--text); line-height: 1.75; margin: 0; }
 
+
+
+
+
 @media (max-width: 640px) {
   .cq-company-grid { grid-template-columns: 1fr 1fr; }
   .cq-hero h1 { font-size: 26px; }
